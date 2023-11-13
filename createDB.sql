@@ -1,0 +1,2 @@
+-- Active: 1699757577802@@127.0.0.1@3306@phpmyadmin
+CREATE DATABASE IF NOT EXISTS toko_online;
